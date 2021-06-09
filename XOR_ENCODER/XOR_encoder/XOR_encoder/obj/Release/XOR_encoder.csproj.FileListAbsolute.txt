@@ -1,0 +1,6 @@
+C:\Users\Akshay\source\repos\XOR_encoder\XOR_encoder\obj\Release\XOR_encoder.csprojAssemblyReference.cache
+C:\Users\Akshay\source\repos\XOR_encoder\XOR_encoder\obj\Release\XOR_encoder.csproj.CoreCompileInputs.cache
+C:\Users\Akshay\source\repos\XOR_encoder\XOR_encoder\bin\Release\XOR_encoder.exe
+C:\Users\Akshay\source\repos\XOR_encoder\XOR_encoder\bin\Release\XOR_encoder.pdb
+C:\Users\Akshay\source\repos\XOR_encoder\XOR_encoder\obj\Release\XOR_encoder.exe
+C:\Users\Akshay\source\repos\XOR_encoder\XOR_encoder\obj\Release\XOR_encoder.pdb
