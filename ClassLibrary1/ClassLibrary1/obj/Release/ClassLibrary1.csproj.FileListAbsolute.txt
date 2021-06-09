@@ -1,0 +1,6 @@
+C:\Users\Akshay\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\Akshay\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\Akshay\source\repos\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\Akshay\source\repos\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Akshay\source\repos\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\Akshay\source\repos\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.pdb
