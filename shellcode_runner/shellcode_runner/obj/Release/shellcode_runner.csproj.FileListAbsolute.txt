@@ -1,0 +1,5 @@
+C:\Users\Akshay\source\repos\shellcode_runner\shellcode_runner\bin\Release\shellcode_runner.exe
+C:\Users\Akshay\source\repos\shellcode_runner\shellcode_runner\bin\Release\shellcode_runner.pdb
+C:\Users\Akshay\source\repos\shellcode_runner\shellcode_runner\obj\Release\shellcode_runner.csproj.CoreCompileInputs.cache
+C:\Users\Akshay\source\repos\shellcode_runner\shellcode_runner\obj\Release\shellcode_runner.exe
+C:\Users\Akshay\source\repos\shellcode_runner\shellcode_runner\obj\Release\shellcode_runner.pdb
